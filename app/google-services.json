@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "517740615351",
+    "project_id": "fir-database-7a339",
+    "storage_bucket": "fir-database-7a339.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517740615351:android:eacc3c0032f3471f195f32",
+        "android_client_info": {
+          "package_name": "com.example.firebasedatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR34P_xuA-d3qILYRuS8XekeO44-brPkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517740615351:android:c10c77f219d53771195f32",
+        "android_client_info": {
+          "package_name": "com.fatec.crudfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR34P_xuA-d3qILYRuS8XekeO44-brPkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
